@@ -1,1 +1,11 @@
+<link rel="stylesheet" href="style.css">
+:root{
+    --branco: white;
+    --cor-de-fundo: #00162E;
+}
+
+body{
+    color: var(--branco);
+    background-color: var(--cor-de-fundo);
+}
 
